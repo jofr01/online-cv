@@ -1,5 +1,5 @@
 function print() {
-  const printWindow = window.open("/print", "_blank");
+  const printWindow = window.open("/online-cv/print", "_blank"); // <-- changed
   printWindow.onload = function () {
     printWindow.print();
     // Close the print window after a delay
@@ -9,7 +9,7 @@ function print() {
 
 function generatePDF() {
   // Get the print layout URL
-  const printURL = new URL("print", window.location.href).href;
+  const printURL = new URL("online-cv/print", window.location.origin).href; // <-- changed
 
   // Fetch the print layout content
   fetch(printURL)
