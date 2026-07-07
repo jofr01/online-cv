@@ -61,16 +61,17 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I earned my Bachelor's in Electrical Engineering with a specialization in Automation in September 2022, actively combining theoretical knowledge with hands-on experience. During a study abroad program at California Polytechnic State University I broadened my perspectives. Subsequent to graduation, I joined Siemens as a Technical Consultant specializing in Industrial Edge solutions. In this role, I've engaged with compelling industry challenges, further refining my skills. Now, I'm set to pursue a Master's in Information Systems Engineering at Technische Universität Darmstad with a focus on advancing my expertise in software development and AI.
+    Passionate and innovative engineering professional specializing in automation technology and IT/OT integration. Experienced in industrial automation, IoT, and edge computing, with hands-on expertise in PLCs, network connectivity, and data integration. Currently working as a Technical Consultant for Industrial Edge at Siemens, driving digital transformation in industrial environments. Holds a Master’s degree in Information System Technology from TU Darmstadt.
 
 education:
   title: Education
   info:
   - degree: M. Sc. Informationssystemtechnik
     university: TU Darmstadt
-    time: 10/2023 - Present
+    time: 10/2023 - 05/2026
     details: |
-      - Individual focus on network technology and AI
+      - Master's thesis: Evaluation of QUIC in Interplanetary Networks
+      - GPA: 3.8
   - degree: B. Eng. in Electrical Engineering
     university: Duale Hochschule Baden-Württemberg (DHBW)
     time: 08/2019 - 09/2022
@@ -91,9 +92,9 @@ experiences:
     company: Siemens AG
     details: |
       Technical consultant for automation technology with a focus on industrial edge computing.
-      - 6 months delegation to Pilsen, Czech
-      - Part-time since 10/2023 due to my master's degree
-  - role: Dualer Student
+      - Successfully lead PoCs in the fields Data Integration Layer, IT/OT Connectivity and virtual PLC
+      - 6 months delegation to Pilsen, Czech to gain international working experience
+  - role: Working Student
     time: 08/2019 - 09/2022
     company: Siemens AG
     details: |
@@ -150,7 +151,7 @@ certifications:
 skills:
   title: Skills &amp; Proficiency
   toolset:
-      - name: Networking Basics
+      - name: Networking
         level: 95%
       - name: CI/CD
         level: 95%
